@@ -1,4 +1,5 @@
-# DFF to OBJ (dff2obj)
+# DEPRECATED
+**MOVED TO https://github.com/Kewka/dffconvert**
 
 Python script to convert DFF file to OBJ.
 
